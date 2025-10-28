@@ -1,5 +1,9 @@
 # Claude GitHub Shortlister
 
+[![Claude Code](https://img.shields.io/badge/Claude-Code-8A2BE2?logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Claude Code Projects](https://img.shields.io/badge/Claude%20Code-Projects%20Index-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![Master Index](https://img.shields.io/badge/GitHub-Master%20Index-green?logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+
 A template repository for efficiently evaluating and shortlisting GitHub repositories when searching for solutions to your development needs.
 
 ## Overview

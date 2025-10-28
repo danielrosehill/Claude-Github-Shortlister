@@ -1,7 +1,9 @@
 # Analysis outputs (generated files)
 analysis/
 
+# Ignore .claude directory by default
+.claude/
+
 # But always commit the .claude/commands directory (override global gitignore)
-!.claude/
 !.claude/commands/
 !.claude/commands/*
